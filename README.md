@@ -1,5 +1,6 @@
 # WiGRUNT code
-Note: Before the paper is accepted, please send an email to zhangxianghfut@gmail.com or zhangxiang@mail.hfut.edu.cn to obtain the decompression password 
+Note: Before the paper is accepted, please send an email to zhangxianghfut@gmail.com or zhangxiang@mail.hfut.edu.cn to obtain the decompression password.
+
 This project contains two folders, matlab and python, respectively. The former is used to preprocess and visualize CSI data, and the latter is our Dual-Attention CSI Network (DACN) for gesture recognition.
 
 ### matlab
