@@ -27,3 +27,9 @@ val.py: gesture recognition with the trained network
 
 ### WiDar3 dataset
 http://tns.thss.tsinghua.edu.cn/widar3.0/
+
+### Feature set
+We also propose the feture set we used(image), can download in Google Drive:https://drive.google.com/file/d/1fTVv5p0NOQOkKC13Vxt-orYliJEaybrE/view?usp=sharing or Baidu Disk: https://pan.baidu.com/s/1463ZdleseB1wHxcb9bhPxQ 
+extract code：rlkb
+file example:a-b-c-d-e.jpg
+a:user b:gesture c:position d:orientation e:repeat times 
