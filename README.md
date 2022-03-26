@@ -1,5 +1,5 @@
 # WiGRUNT code
-Note: Our paper has benn accepted by IEEE Transactions on Human-Machine Systems, the password of the code is sac123.
+Note: Our paper has been accepted by IEEE Transactions on Human-Machine Systems, the password of the code is sac123.
 
 This project contains two folders, matlab and python, respectively. The former is used to preprocess and visualize CSI data, and the latter is our Dual-Attention CSI Network (DACN) for gesture recognition, and please change the pretrained to 'True' of the ResNet model. If you have any question, please refer to zhangxianghfut@gmail.com or zhangxiang@mail.hfut.edu.cn.
 
